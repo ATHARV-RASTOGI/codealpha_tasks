@@ -76,11 +76,3 @@ A machine learning model to help financial institutions assess credit risk.
 - XGBoost
 
 ---
-
-## 🏃‍♂️ Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
